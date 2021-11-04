@@ -133,7 +133,7 @@ class: center, inverse, middle
 
 .fom[**Questions**:]
 
-1. What do students tink the data means? Does it depend on context?
+1. What do students think the data means? Does it depend on context?
 
 2. What model do students assume generated the data? Does it depend on context?
 
