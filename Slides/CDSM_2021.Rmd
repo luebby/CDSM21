@@ -229,7 +229,7 @@ What do you think is the magnitude of the healthy pay gap in this company?
 ## Different Data Stories
 
 .pull-left[
-Directed Acyclic Graphs (DAG) tell your assumed *data story* - and tell you if you should adjust for $\color{violet}{Z}$ to estimate the total causal effect of $\color{green}{X}$ on $\color{blue}{Y}$.]
+Directed Acyclic Graphs (DAG) tell your assumed *data story* - and tell you if you should adjust for $\color{violet}{Z}$ to estimate the total causal effect of exposure $\color{green}{X}$ on outcome $\color{blue}{Y}$.]
 
 .pull-right[
 ```{r,echo=FALSE, fig.width=8, fig.height=4, out.width='100%', fig.align='center', warning=FALSE}
@@ -263,7 +263,7 @@ Online survey with two randomized experimental factors:
 
 - Order of task presentation: DAG or table and effect estimation first
 
-Sample: $n = `r nrow(Conclusion)`$ business psychology students studying while working within a marketplace for scientific studies.´ .fom[As the study program is offered for professionals students may already be in a management position. No formal training in causal inference.]
+Sample: $n = `r nrow(Conclusion)`$ business psychology students studying while working within a marketplace for scientific studies. .fom[As the study program is offered for professionals students may already be in a management position. No formal training in causal inference.]
 
 ---
 
