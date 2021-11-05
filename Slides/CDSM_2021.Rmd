@@ -234,8 +234,8 @@ Directed Acyclic Graphs (DAG) tell your assumed *data story* - and tell you if y
 .pull-right[
 ```{r,echo=FALSE, fig.width=8, fig.height=4, out.width='100%', fig.align='center', warning=FALSE}
 plot_grid(DAG_fork,DAG_chain, ncol=2, nrow = 1,  label_size=12,
-          labels=c('Z and in a fork between X and Y',
-                   'Z and in a chain between X and Y'))
+          labels=c('Z in a fork between X and Y',
+                   'Z in a chain between X and Y'))
 ```
 ]
 
@@ -263,7 +263,7 @@ Online survey with two randomized experimental factors:
 
 - Order of task presentation: DAG or table and effect estimation first
 
-Sample: $n = `r nrow(Conclusion)`$ business psychology students studying while working within a marketplace for scientific studies. .fom[As the study program is offered for professionals students may already be in a management position. No formal training in causal inference.]
+Sample: $n = `r nrow(Conclusion)`$ business psychology students studying while working within a marketplace for scientific studies. .fom[As the study program is offered for professionals, students may already be in a management position. No formal training in causal inference.]
 
 ---
 
@@ -438,7 +438,7 @@ background-image: url("img/RedBlue-Causal.jpg")
 ## Outlook
 
 .pull-left[
-.fom[Ongoing research]: Conclusions may ve even more messy if data does not meet expectations `r fontawesome("sad-tear", style = "solid")`
+.fom[Ongoing research]: Conclusions may be even more messy then presented here if data does not meet expectations, e.g. when women are favored in terms of the gender pay gap.`r fontawesome("sad-tear", style = "solid")`
 ]
 
 .pull-right[
