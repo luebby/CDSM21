@@ -153,16 +153,22 @@ include_graphics(c("img/DL-Framework.png"))
 
 ---
 
-## Data Science Education
-
-Beth Chance, IASE Statelite 2021: Multivariable thinking throughout the curriculum:
-
-> Our world is increasingly data centric. Consumers and creators of statistical information must understand complex associations among the many variables that are used to make data-driven decisions.
+## The Wrong Lesson
 
 
-.center[<iframe src="https://giphy.com/embed/AmESvRdXsHFra" width="240" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>]
+[Danny Kaplan](https://cause.vmhost.psu.edu/cause/sites/default/files/uscots/uscots13/opening/6_Daniel_Kaplan.pdf):
 
-.footnote[[via GIPHY](https://giphy.com/gifs/reaction-keira-knightley-agreement-AmESvRdXsHFra)]
+> *What I was saying ...*
+Data don’t speak, they inform our judgment.
+Interpret data in the context of a whole system.
+
+
+--
+
+
+> *What they were hearing ...*
+The data will say anything you want, depending on how you cut it.
+
 
 ---
 
