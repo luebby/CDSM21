@@ -137,7 +137,7 @@ class: center, inverse, middle
 
 2. Which model do students assume generated the data? Does it depend on context?
 
-3. Can Directed Acyclic Graphs help to match (1) and (2)
+3. Can Directed Acyclic Graphs help to match (1) and (2)?
 
 ---
 
