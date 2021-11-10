@@ -172,7 +172,7 @@ The data will say anything you want, depending on how you cut it.
 --
 
 <br> 
-´
+
 .center[.fom[How can we do better `r icon_style(fontawesome("chalkboard-teacher", style = "solid"), fill = "#00998A")`?]]
 
 ---
