@@ -135,7 +135,7 @@ class: center, inverse, middle
 
 1. What do students think the data means? Does it depend on context?
 
-2. What model do students assume generated the data? Does it depend on context?
+2. Which model do students assume generated the data? Does it depend on context?
 
 3. Can Directed Acyclic Graphs help to match (1) and (2)
 
@@ -169,6 +169,11 @@ Interpret data in the context of a whole system.
 > *What they were hearing ...*
 The data will say anything you want, depending on how you cut it.
 
+--
+
+<br> 
+´
+.center[.fom[How can we do better `r icon_style(fontawesome("chalkboard-teacher", style = "solid"), fill = "#00998A")`?]]
 
 ---
 
@@ -437,7 +442,7 @@ background-image: url("img/RedBlue-Causal.jpg")
 
 .center[Draw (Causal) Conclusions from Data – Some Evidence]
 
-`r fontawesome("hand-point-right", style = "solid")` Conclusions from data depend on the qualitative assumptions about the data generating process. Data alone is not enough and we should try to make our assumptions as transparent and discussible as possible, and integration of DAGs in data science education may be a step in that direction. More research is needed.
+`r icon_style(fontawesome("hand-point-right", style = "solid"), fill = "#00998A")` Conclusions from data depend on the qualitative assumptions about the data generating process. Data alone is not enough and we should try to make our assumptions as transparent and discussible as possible, and integration of DAGs in data science education may be a step in that direction. More research is needed.
 
 ---
 
@@ -459,7 +464,7 @@ include_graphics("img/Confirmation-bias.png")
 
 ## The End
 
-.center[`r icon_style(fontawesome("heart", style = "solid"), fill = "red")` Thank you for your participation `r icon_style(fontawesome("heart", style = "solid"), fill = "red")`]
+.center[`r icon_style(fontawesome("heart", style = "solid"), fill = "#F92672")` Thank you for your participation `r icon_style(fontawesome("heart", style = "solid"), fill = "#F92672")`]
 
 <br>
 
