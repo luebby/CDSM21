@@ -144,12 +144,12 @@ class: center, inverse, middle
 ## Data Literacy
 
 .center[
-```{r dl-framework, out.width='60%', echo=FALSE}
-include_graphics(c("img/DL-Framework.png"))
+```{r dl-framework, out.width='68%', echo=FALSE}
+include_graphics(c("img/DLF.jpg"))
 ```
 ]
 
-.footnote[Source: [Schüller (2020)](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_Nr_53_Data_Literacy_Framework.pdf)]
+.footnote[Source: [Schüller (2020)](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_Nr_53_Data_Literacy_Framework.pdf), cf. [Data Literacy Charter](https://www.stifterverband.org/data-literacy-charter)]
 
 ---
 
