@@ -151,6 +151,19 @@ include_graphics(c("img/DLF.jpg"))
 
 .footnote[Source: [Schüller (2020)](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_Nr_53_Data_Literacy_Framework.pdf), cf. [Data Literacy Charter](https://www.stifterverband.org/data-literacy-charter)]
 
+
+---
+
+## A Wobbly Bridge
+
+From *A1: Data Use Case* to *F2: Act Data-Driven*:
+
+
+.center[<iframe src="https://giphy.com/embed/zQxOLmztiIWOs" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>]
+
+.footnote[[via GIPHY](https://giphy.com/gifs/animal-monkey-gibbon-zQxOLmztiIWOs)]
+
+
 ---
 
 ## The Wrong Lesson
@@ -162,9 +175,7 @@ include_graphics(c("img/DLF.jpg"))
 Data don’t speak, they inform our judgment.
 Interpret data in the context of a whole system.
 
-
 --
-
 
 > *What they were hearing ...*
 The data will say anything you want, depending on how you cut it.
@@ -173,7 +184,8 @@ The data will say anything you want, depending on how you cut it.
 
 <br> 
 
-.center[.fom[How can we do better `r icon_style(fontawesome("chalkboard-teacher", style = "solid"), fill = "#00998A")`?]]
+.center[.fom[How can we provide a framework to discuss science with data with all stakeholders?]]
+
 
 ---
 
